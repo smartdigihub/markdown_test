@@ -42,7 +42,7 @@ Different types of URLs are supported. Footnote links will be resolved to show t
 - Plain URL https://github.com/cilice/markdown-cli
 - Embraced URL <https://github.com/cilice/markdown-cli>
 
-## Tables
+## Table
 
 | Col1  | Col2      | Col3    |
 | ----- | --------- | ------- |
