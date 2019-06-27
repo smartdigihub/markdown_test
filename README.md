@@ -44,7 +44,7 @@ Different types of URLs are supported. Footnote links will be resolved to show t
 
 ## Table
 
-| Col1  | Col2      | Col3    |
+| Col1  | Col21     | Col3    |
 | ----- | --------- | ------- |
 | Cell1 | **Cell2** | _Cell3_ |
 | Cell4 | Cell5     | Cell6   |
